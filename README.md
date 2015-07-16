@@ -4,17 +4,24 @@ Hello-World
 ===========
 
 ```
-<p> this is some text <p>
+<p> these are my baby steps <p>
 ```
 
 1. This
 2. is
 3. a
 4. list
+5. of
+6. potential
+7. growth
 
-* Bullet
-* Points
+* icecream
+* jihye Kim *
+** jihyek.im **
 
-http://www.google.com
+http://www.zephyrhealth.com
 
-[Google](http://www.google.com)
+[Zephyr Health](http://www.zephyrhealth.com)
+
+
+Here it is 
